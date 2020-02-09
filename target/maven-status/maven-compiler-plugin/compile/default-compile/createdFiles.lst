@@ -1,0 +1,5 @@
+com\anz\ws\response\model\ApiResponse.class
+com\anz\ws\GenerateDocumentRestWsApplication.class
+com\anz\ws\service\ContentReplaceService.class
+com\anz\ws\controller\GenerateDocumentController.class
+com\anz\ws\model\CustomerDetails.class
